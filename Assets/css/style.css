@@ -299,7 +299,7 @@ footer {
 }
 
 .timeline-item {
-    padding: 4m 2em 0em 2em;
+    padding: 4em 2em 0em 2em;
     position: relative;
     color: #fafafa;
     border-left: 1px solid;
@@ -327,7 +327,7 @@ footer {
     width: 12px;
     height: 12px;
     display: block;
-    top: 2.4m;
+    top: 2.4em;
     position: absolute;
     left: -6px;
     border-radius: 12px;
